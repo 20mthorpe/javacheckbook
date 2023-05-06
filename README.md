@@ -1,11 +1,11 @@
-## Overview
+# Overview
 
 This software is designed to keep track of bank account information. It can be used to create and delete accounts, add
 and withdraw money, and save and retrieve bank account information from an external file.
 
 This software demonstrates the syntax of java and uses many common programming practices.
 
-[Bank Demo Video](http://youtube.link.goes.here)
+[Checkbook Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
