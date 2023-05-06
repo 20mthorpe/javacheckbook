@@ -5,7 +5,7 @@ and withdraw money, and save and retrieve bank account information from an exter
 
 This software demonstrates the syntax of java and uses many common programming practices.
 
-[Checkbook Demo Video](http://youtube.link.goes.here)
+[Checkbook Demo Video](https://youtu.be/EMM5NyT7psk)
 
 # Development Environment
 
